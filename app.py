@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 
 import cx_Oracle 
 import os
+#2
 
 app = Flask(__name__)
 
